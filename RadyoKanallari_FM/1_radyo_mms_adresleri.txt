@@ -1,0 +1,8 @@
+Joy Türk	Türkçe Slow	http://provisioning.streamtheworld.com/pls/JOY_TURKAAC.pls
+Best Fm	Türkçe Pop	http://46.20.7.125/listen.pls
+Metro Fm	Yabancı Müzik	http://provisioning.streamtheworld.com/pls/METRO_FMAAC.pls
+Power Fm	Yabancı Müzik	http://powerfm.listenpowerapp.com/powerfm/mpeg/icecast.audio
+İstanbul Fm	Türkçe Pop	http://45.32.154.169:9300/;
+TRT Fm	Türkçe Pop	http://trtcanlifm-lh.akamaihd.net/i/TRTFM_1@181846/master.m3u8
+Slow Türk	Türkçe Pop	https://r3.rocketcdn.com/slowturk/abr/playlist.m3u8
+Radyo Fenomen	Yabancı Müzik	http://fenomen.listenfenomen.com/fenomen/128/icecast.audio
